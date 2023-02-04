@@ -1,7 +1,7 @@
 # Nord-Fox
 Custom firefox startpage
 
-![](/screenshots/Screenshot_20211210_162847.png)
+![](/screenshots/result.png)
 
 ## Set as Home Page
 
