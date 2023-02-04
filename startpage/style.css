@@ -39,7 +39,7 @@ body {
     background: #222D32;
     width: 500px;
     padding: 0px;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     border-radius: 10px 10px 10px 10px;
     align-self: center;
     height: 60px;
@@ -61,11 +61,11 @@ body {
 
 .image {
     text-align: center;
-    padding-top: 7px;
+    padding-top: 5px;
 }
 
 .bg {
-    padding: 40px;
+    padding: 30px;
 }
 
 .button {
